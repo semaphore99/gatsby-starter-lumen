@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Dixon Deng',
+  subtitle: 'Hello the world is going to end, so pack your bags, we are going to Mars',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Dixon Deng',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Engineer | Father | Learner | Leader | Photographer | Unicorn |',
     contacts: {
       email: '',
       facebook: '#',
